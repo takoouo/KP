@@ -7,6 +7,7 @@
 4. 沒有防呆，沒有自動算總和是否出錯，黏憑還是需要自己努力
 
 安裝套件
+
 pip install python-docx
 
 pip install docx2pdf
